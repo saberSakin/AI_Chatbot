@@ -9,4 +9,7 @@ This is a Retrieval-Augmented Generation (RAG) Q&A system using the `llama-index
 ![Example 2](examples/ex2.png)
 
 ### Example 3
-![Example 3](examples/ex4.png)
+![Example 3](examples/ex3.png)
+
+### Example 3=4
+![Example 4](examples/ex4.png)
