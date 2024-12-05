@@ -11,10 +11,7 @@ Here are some examples of the Q/A chatbot for conversation in both bangla and en
 ![Example 1](examples/ex1.png)
 
 ### Example 2
-![Example 2](examples/ex2.png)
-
-### Example 3
 ![Example 3](examples/ex3.png)
 
-### Example 3=4
+### Example 3
 ![Example 4](examples/ex4.png)
